@@ -1,6 +1,6 @@
 # Citybike analysis
 ## Overview
-The purpose of the analysis is to solidify a business proposal for bike-sharing program. The bike trip analysis will be shown to stakeholders in order to proof sustainability and perspective of the project.
+The purpose of the analysis is to solidify a business proposal for bike-sharing program. The bike trip analysis will be shown to stakeholders in order to proof sustainability and perspective of the project. The whole analysis can be found by this link [Citibike analysis]("https://public.tableau.com/app/profile/andrew.g6415/viz/Citibike_16267998413540/Citibankbikesanalysis#1")
 
 ## Results
 - During the analysis we created several plots, reflecting current situation in the business. On the first page performed data showing distribution of rides between genders during the every day of week and the quantity of rides relatively to its duration. [Checkout times for Users by Gender](https://github.com/andgerashchenko/bikesharing/blob/main/Resources/checkout%20times.png)
