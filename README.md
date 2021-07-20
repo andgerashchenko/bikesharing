@@ -16,4 +16,4 @@ The pie chart shows persantage probability of bike checkout for each group. Seco
 ## Summary
 Deep understanding of how the business operates is crucial for effective managment and proper investment. In this particular case we need to know how to destribute addintional stations, where to point maintanance teams and how to build marketing strategy. 
 From first set of plots ([Checkout chance by weekday](https://github.com/andgerashchenko/bikesharing/blob/main/Resources/trips%20by%20weekday.png)) we can see how long people ride the bikes more often. So the charts shows that 3 to 10 minutes is most likely ride duration. That means that bikes usually don't travel too far. Which is confirms by other plots ([Start/End Locations](https://github.com/andgerashchenko/bikesharing/blob/main/Resources/locations.png)). Here we can clearly see that starting and ending locations not very differ in terms of volume of rides. This also means that the most wearout bikes will concentrate in the same areas, which is esier for maintanance.
-*Next page ()
+* Next page ()
